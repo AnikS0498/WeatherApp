@@ -1,0 +1,60 @@
+body{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Anchor tag */
+a{
+  color: inherit;
+}
+
+/* Navbar */
+.navbar-brand{
+  padding: 0 10px;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+/* Form Container */
+.titleImage{
+  margin: 25px auto;
+}
+
+.form-container{
+  margin: 10px 0 170px;
+  padding: 50px;
+}
+
+.copyrightIcon{
+  padding: 10px;
+}
+
+/* Button */
+.btn{
+  margin-top: 20px;
+}
+
+/* Footer */
+.cta{
+  background-color: #f8f9fa;
+  padding: 25px;
+}
+
+.footerIcons{
+  padding: 20px;
+  margin: 10px 20px;
+}
+
+/* Jumbotrons */
+.jumbotron{
+  background-color: #f8f9fa;
+  margin: 0 0 50px;
+}
+
+#jumbotronError{
+  background-color: #f8f9fa;
+  padding: 100px;
+  margin: 0 0 90px;
+}
